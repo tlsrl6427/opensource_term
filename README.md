@@ -223,5 +223,5 @@
 
 * __결과예시__
 
-![지뢰찾기 예제](/flag.png)
-![지뢰찾기 matrix](/flag.png)
+![지뢰찾기 문제](/mine_problem.jpg)
+![지뢰찾기 정답](/mine_answer.jpg)
