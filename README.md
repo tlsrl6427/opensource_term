@@ -223,5 +223,11 @@
 
 * __결과예시__
 
-![지뢰찾기 문제](/mine_problem.jpg)
-![지뢰찾기 정답](/mine_answer.jpg)
+    - 게임화면 예시<br>
+
+    ![지뢰찾기 문제](/mine_problem.JPG)
+
+    <br>
+
+    - 행렬화면 예시<br>
+    ![지뢰찾기 정답](/mine_answer.JPG)
