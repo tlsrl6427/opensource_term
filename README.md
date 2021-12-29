@@ -225,12 +225,12 @@
 
     - 게임화면 예시<br>
 
-    ![지뢰찾기 문제](/mine_problem.JPG)
+    ![지뢰찾기 문제](/markdown_img/mine_problem.JPG)
 
     <br>
 
     - 행렬화면 예시<br>
-    ![지뢰찾기 정답](/mine_answer.JPG)
+    ![지뢰찾기 정답](/markdown_img/mine_answer.JPG)
     
     - 예시<br>
-    ![지뢰찾기 정답](/exam.gif)
+    ![지뢰찾기 정답](/markdown_img/exam.gif)
